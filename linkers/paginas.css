@@ -6,7 +6,7 @@
         padding: 15px;
         width: 90%;
         margin: auto;
-        margin-top: 100px;
+        margin-top: 70px;
         box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.26);
     }
 .tito{ /*Titulo da página*/
@@ -14,4 +14,9 @@
     }
 div#center{  /*centralizar a div*/
         text-align: center;
+    }
+    h3.voltar {
+        color: #0000FF;
+        font-size: 16pt;
+        margin-top: 20px;
     }
