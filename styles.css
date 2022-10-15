@@ -5,13 +5,13 @@ header {
     top: 0;
     left: 0;
     width: 100%;
-    height: 100px;
+    height: 80px;
     z-index: 1;
     background-color: #0000FF;
 }
 
 div {
-    padding-top: 30px;
+    padding-top: 20px;
 }
 
 a#cor {
